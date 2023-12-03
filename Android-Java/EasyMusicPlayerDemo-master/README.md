@@ -1,0 +1,2 @@
+# EasyMusicPlayerDemo
+應用Service完成一個簡單的音樂播放器
